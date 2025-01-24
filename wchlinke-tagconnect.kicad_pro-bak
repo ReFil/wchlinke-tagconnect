@@ -594,9 +594,5 @@
       "Root"
     ]
   ],
-  "text_variables": {
-    "GIT_HASH": "dadf3fc",
-    "GIT_TAG": "V0.1",
-    "PROJ_TITLE": "wchlinke-tagconnect"
-  }
+  "text_variables": {}
 }
